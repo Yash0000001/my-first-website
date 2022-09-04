@@ -1,0 +1,18 @@
+body {
+  background-color: #EAF6F6;
+}
+hr {
+  border: 10px dotted grey;
+  border-style: dotted none none;
+  background-color: transparent;
+  width:10%;
+}
+img{
+  height: 180px;
+}
+h1{
+  color: #069A8E;
+}
+h2{
+  color: #069A8E;
+}
